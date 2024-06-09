@@ -1,2 +1,2 @@
-# Projeto-1---Aprendendo-boas-pr-ticas-com-GItHub
+# projeto1-boas-praticas-com-GitHub
 Tutorial de como utilizar o GitHub criado por Jhonatan da Dev Aprender
